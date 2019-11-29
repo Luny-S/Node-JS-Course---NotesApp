@@ -1,0 +1,16 @@
+{
+  "name": "Node-JS-Course---NotesApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "validator": "^12.1.0"
+  },
+  "scripts": {
+    "install": "npm install"
+  },
+  "repository": {
+    "url": "https://github.com/olek130/Node-JS-Course---NotesApp"
+  },
+  "license": "BSD-3-Clause"
+}
