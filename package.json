@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "validator": "^12.1.0"
+    "validator": "12.1.0",
+    "chalk": "3.0.0",
+    "yargs": "15.0.2"
   },
   "scripts": {
     "install": "npm install"
@@ -12,5 +14,8 @@
   "repository": {
     "url": "https://github.com/olek130/Node-JS-Course---NotesApp"
   },
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
 }
