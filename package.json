@@ -6,7 +6,8 @@
   "dependencies": {
     "validator": "12.1.0",
     "chalk": "3.0.0",
-    "yargs": "15.0.2"
+    "yargs": "15.0.2",
+    "download": "^7.1.0"
   },
   "scripts": {
     "install": "npm install"
